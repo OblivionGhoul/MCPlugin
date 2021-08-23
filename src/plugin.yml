@@ -1,0 +1,11 @@
+main: com.oblivionghoul.Main
+name: MCPlugin
+version: 1.0.0
+api-version: 1.17
+commands:
+  clear:
+    description: Clears the user's inventory
+    usage: /<command>
+  heal:
+    description: Heals a user
+    usage: /<command>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MCPlugin:jar">
+    <output-path>$PROJECT_DIR$/../TestMCServer/plugins</output-path>
+    <root id="archive" name="MCPlugin.jar">
+      <element id="module-output" name="MCPlugin" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
